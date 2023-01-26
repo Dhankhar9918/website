@@ -1,0 +1,60 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+  
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: aqua;
+}
+.pro {
+    text-decoration: underline;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.deeraj {
+    height: 200px;
+    width: 200px;
+    
+    border-image: round;
+}
+.insta {
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 7px;
+}
+.twitter {
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 6px;
+    right: 60px;
+}
+.link {
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top: 5px;
+    right: 55px;
+}
